@@ -1,4 +1,16 @@
 REF_DATE,GEO,DGUID,Type of fuel,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+1990-01,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,58.3,,,,1
+1990-02,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,58.9,,,,1
+1990-03,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,59.5,,,,1
+1990-04,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,60.3,,,,1
+1990-05,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,60.4,,,,1
+1990-06,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,61.5,,,,1
+1990-07,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,61.3,,,,1
+1990-08,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,61.4,,,,1
+1990-09,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,62.6,,,,1
+1990-10,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,66.7,,,,1
+1990-11,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,67.8,,,,1
+1990-12,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,70.6,,,,1
 1991-01,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,72.3,,,,1
 1991-02,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,67.4,,,,1
 1991-03,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,63.4,,,,1
@@ -347,6 +359,30 @@ REF_DATE,GEO,DGUID,Type of fuel,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDI
 2019-10,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,115.2,,,,1
 2019-11,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,116.7,,,,1
 2019-12,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,116.4,,,,1
+2020-01,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,115.1,,,,1
+2020-02,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,113.4,,,,1
+2020-03,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,99.1,,,,1
+2020-04,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,81.1,,,,1
+2020-05,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,93.5,,,,1
+2020-06,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,103.8,,,,1
+2020-07,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,109.5,,,,1
+2020-08,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,108.3,,,,1
+2020-09,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,107.7,,,,1
+2020-10,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,101.1,,,,1
+2020-11,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,103.0,,,,1
+2020-12,"Québec, Quebec",2011S0503421,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735095,6.2,107.2,,,,1
+1990-01,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,59.0,,,,1
+1990-02,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,59.0,,,,1
+1990-03,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,59.7,,,,1
+1990-04,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,60.5,,,,1
+1990-05,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,60.7,,,,1
+1990-06,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,61.5,,,,1
+1990-07,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,61.7,,,,1
+1990-08,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,61.7,,,,1
+1990-09,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,62.9,,,,1
+1990-10,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,67.2,,,,1
+1990-11,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,68.8,,,,1
+1990-12,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,70.8,,,,1
 1991-01,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,72.3,,,,1
 1991-02,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,67.2,,,,1
 1991-03,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,63.1,,,,1
@@ -695,6 +731,30 @@ REF_DATE,GEO,DGUID,Type of fuel,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDI
 2019-10,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,123.6,,,,1
 2019-11,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,123.5,,,,1
 2019-12,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,123.5,,,,1
+2020-01,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,122.1,,,,1
+2020-02,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,120.1,,,,1
+2020-03,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,99.3,,,,1
+2020-04,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,85.5,,,,1
+2020-05,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,97.0,,,,1
+2020-06,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,105.6,,,,1
+2020-07,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,110.6,,,,1
+2020-08,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,109.3,,,,1
+2020-09,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,106.6,,,,1
+2020-10,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,105.4,,,,1
+2020-11,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,104.8,,,,1
+2020-12,"Montréal, Quebec",2011S0503462,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735096,7.2,108.7,,,,1
+1990-01,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,56.0,,,,1
+1990-02,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,56.2,,,,1
+1990-03,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,56.3,,,,1
+1990-04,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,56.5,,,,1
+1990-05,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,56.5,,,,1
+1990-06,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,56.9,,,,1
+1990-07,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,57.4,,,,1
+1990-08,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,57.3,,,,1
+1990-09,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,58.7,,,,1
+1990-10,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,62.7,,,,1
+1990-11,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,65.9,,,,1
+1990-12,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,65.9,,,,1
 1991-01,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,66.3,,,,1
 1991-02,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,62.5,,,,1
 1991-03,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,58.6,,,,1
@@ -1043,6 +1103,30 @@ REF_DATE,GEO,DGUID,Type of fuel,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDI
 2019-10,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,115.2,,,,1
 2019-11,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,113.6,,,,1
 2019-12,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,113.1,,,,1
+2020-01,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,111.6,,,,1
+2020-02,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,108.4,,,,1
+2020-03,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,84.3,,,,1
+2020-04,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,78.3,,,,1
+2020-05,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,90.7,,,,1
+2020-06,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,99.4,,,,1
+2020-07,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,103.7,,,,1
+2020-08,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,103.3,,,,1
+2020-09,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,101.1,,,,1
+2020-10,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,100.1,,,,1
+2020-11,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,98.7,,,,1
+2020-12,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735097,8.2,103.2,,,,1
+1990-01,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,48.5,,,,1
+1990-02,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,50.8,,,,1
+1990-03,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,53.1,,,,1
+1990-04,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,51.7,,,,1
+1990-05,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,53.9,,,,1
+1990-06,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,55.2,,,,1
+1990-07,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,55.9,,,,1
+1990-08,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,55.9,,,,1
+1990-09,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,56.5,,,,1
+1990-10,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,60.1,,,,1
+1990-11,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,64.3,,,,1
+1990-12,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,62.1,,,,1
 1991-01,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,56.3,,,,1
 1991-02,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,51.7,,,,1
 1991-03,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,52.5,,,,1
@@ -1391,6 +1475,30 @@ REF_DATE,GEO,DGUID,Type of fuel,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDI
 2019-10,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,116.9,,,,1
 2019-11,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,116.4,,,,1
 2019-12,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,116.0,,,,1
+2020-01,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,114.6,,,,1
+2020-02,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,111.0,,,,1
+2020-03,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,86.1,,,,1
+2020-04,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,79.1,,,,1
+2020-05,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,91.2,,,,1
+2020-06,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,99.9,,,,1
+2020-07,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,104.3,,,,1
+2020-08,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,103.9,,,,1
+2020-09,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,101.8,,,,1
+2020-10,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,100.7,,,,1
+2020-11,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,99.3,,,,1
+2020-12,"Toronto, Ontario",2011S0503535,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735098,9.2,103.6,,,,1
+1990-01,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,56.4,,,,1
+1990-02,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,56.5,,,,1
+1990-03,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,56.5,,,,1
+1990-04,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,58.5,,,,1
+1990-05,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,58.4,,,,1
+1990-06,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,57.9,,,,1
+1990-07,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,57.7,,,,1
+1990-08,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,57.7,,,,1
+1990-09,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,59.0,,,,1
+1990-10,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,62.8,,,,1
+1990-11,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,66.6,,,,1
+1990-12,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,66.2,,,,1
 1991-01,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,65.8,,,,1
 1991-02,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,62.5,,,,1
 1991-03,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,59.4,,,,1
@@ -1739,6 +1847,30 @@ REF_DATE,GEO,DGUID,Type of fuel,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDI
 2019-10,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,130.7,,,,1
 2019-11,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,128.6,,,,1
 2019-12,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,127.9,,,,1
+2020-01,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,127.6,,,,1
+2020-02,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,126.0,,,,1
+2020-03,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,110.9,,,,1
+2020-04,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,84.9,,,,1
+2020-05,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,100.1,,,,1
+2020-06,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,111.8,,,,1
+2020-07,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,117.7,,,,1
+2020-08,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,116.2,,,,1
+2020-09,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,116.4,,,,1
+2020-10,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,116.0,,,,1
+2020-11,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,113.3,,,,1
+2020-12,"Thunder Bay, Ontario",2011S0503595,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735099,10.2,114.6,,,,1
+1990-01,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,48.3,,,,1
+1990-02,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,48.4,,,,1
+1990-03,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,48.9,,,,1
+1990-04,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,51.1,,,,1
+1990-05,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,52.9,,,,1
+1990-06,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,52.9,,,,1
+1990-07,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,52.8,,,,1
+1990-08,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,52.9,,,,1
+1990-09,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,54.4,,,,1
+1990-10,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,60.7,,,,1
+1990-11,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,62.2,,,,1
+1990-12,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,58.2,,,,1
 1991-01,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,63.4,,,,1
 1991-02,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,43.3,,,,1
 1991-03,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,46.3,,,,1
@@ -2087,6 +2219,30 @@ REF_DATE,GEO,DGUID,Type of fuel,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDI
 2019-10,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,98.2,,,,1
 2019-11,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,95.1,,,,1
 2019-12,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,96.2,,,,1
+2020-01,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,98.8,,,,1
+2020-02,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,96.4,,,,1
+2020-03,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,77.0,,,,1
+2020-04,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,62.4,,,,1
+2020-05,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,83.3,,,,1
+2020-06,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,92.0,,,,1
+2020-07,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,95.0,,,,1
+2020-08,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,92.2,,,,1
+2020-09,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,98.8,,,,1
+2020-10,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,92.0,,,,1
+2020-11,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,90.2,,,,1
+2020-12,"Edmonton, Alberta",2011S0503835,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735086,14.2,94.7,,,,1
+1990-01,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,47.9,,,,1
+1990-02,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,48.9,,,,1
+1990-03,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,49.7,,,,1
+1990-04,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,51.9,,,,1
+1990-05,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,51.9,,,,1
+1990-06,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,53.4,,,,1
+1990-07,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,53.0,,,,1
+1990-08,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,53.4,,,,1
+1990-09,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,54.9,,,,1
+1990-10,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,61.4,,,,1
+1990-11,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,62.8,,,,1
+1990-12,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,60.6,,,,1
 1991-01,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,63.5,,,,1
 1991-02,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,44.9,,,,1
 1991-03,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,45.5,,,,1
@@ -2435,6 +2591,30 @@ REF_DATE,GEO,DGUID,Type of fuel,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDI
 2019-10,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,100.4,,,,1
 2019-11,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,97.9,,,,1
 2019-12,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,99.0,,,,1
+2020-01,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,101.6,,,,1
+2020-02,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,99.0,,,,1
+2020-03,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,79.2,,,,1
+2020-04,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,66.2,,,,1
+2020-05,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,87.2,,,,1
+2020-06,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,95.1,,,,1
+2020-07,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,97.4,,,,1
+2020-08,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,97.5,,,,1
+2020-09,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,104.9,,,,1
+2020-10,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,104.5,,,,1
+2020-11,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,103.7,,,,1
+2020-12,"Calgary, Alberta",2011S0503825,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735087,15.2,101.9,,,,1
+1990-01,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,57.6,,,,1
+1990-02,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,58.7,,,,1
+1990-03,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,58.7,,,,1
+1990-04,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,59.9,,,,1
+1990-05,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,59.9,,,,1
+1990-06,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,59.9,,,,1
+1990-07,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,60.3,,,,1
+1990-08,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,60.4,,,,1
+1990-09,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,61.3,,,,1
+1990-10,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,64.9,,,,1
+1990-11,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,69.9,,,,1
+1990-12,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,65.9,,,,1
 1991-01,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,67.4,,,,1
 1991-02,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,61.8,,,,1
 1991-03,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,55.0,,,,1
@@ -2783,6 +2963,30 @@ REF_DATE,GEO,DGUID,Type of fuel,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDI
 2019-10,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,158.2,,,,1
 2019-11,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,140.5,,,,1
 2019-12,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,136.5,,,,1
+2020-01,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,139.9,,,,1
+2020-02,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,145.9,,,,1
+2020-03,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,121.4,,,,1
+2020-04,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,96.7,,,,1
+2020-05,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,113.0,,,,1
+2020-06,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,127.2,,,,1
+2020-07,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,131.4,,,,1
+2020-08,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,130.0,,,,1
+2020-09,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,125.9,,,,1
+2020-10,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,122.3,,,,1
+2020-11,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,123.6,,,,1
+2020-12,"Vancouver, British Columbia",2011S0503933,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735088,16.2,126.1,,,,1
+1990-01,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,55.0,,,,1
+1990-02,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,56.7,,,,1
+1990-03,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,56.7,,,,1
+1990-04,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,57.9,,,,1
+1990-05,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,58.5,,,,1
+1990-06,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,58.5,,,,1
+1990-07,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,58.8,,,,1
+1990-08,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,59.1,,,,1
+1990-09,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,61.3,,,,1
+1990-10,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,63.5,,,,1
+1990-11,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,67.5,,,,1
+1990-12,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,67.5,,,,1
 1991-01,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,69.3,,,,1
 1991-02,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,65.9,,,,1
 1991-03,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,59.3,,,,1
@@ -3131,3 +3335,15 @@ REF_DATE,GEO,DGUID,Type of fuel,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDI
 2019-10,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,150.7,,,,1
 2019-11,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,138.9,,,,1
 2019-12,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,132.4,,,,1
+2020-01,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,139.7,,,,1
+2020-02,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,143.2,,,,1
+2020-03,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,126.3,,,,1
+2020-04,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,99.4,,,,1
+2020-05,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,107.9,,,,1
+2020-06,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,123.2,,,,1
+2020-07,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,129.8,,,,1
+2020-08,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,127.9,,,,1
+2020-09,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,125.0,,,,1
+2020-10,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,121.6,,,,1
+2020-11,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,119.9,,,,1
+2020-12,"Victoria, British Columbia",2011S0503935,Regular unleaded gasoline at self service filling stations,Cents per litre,57,units,0,v735089,17.2,120.3,,,,1
