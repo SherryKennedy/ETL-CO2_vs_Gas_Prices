@@ -1,4 +1,4 @@
-Please refer to the report (link) for a thorough explanation of this project. Below you will find the analysis steps and links to the relevant folders and files for each step.
+Please refer to the [report](https://docs.google.com/document/d/14F4xUKnnTIMCbx-4Z3-IhaLq061oqAbEGB7vniyEzns/edit?usp=sharing) for a thorough explanation of this project. Below you will find the analysis steps and links to the relevant folders and files for each step.
 
 ###Motivation
 In 2021, gas prices are on the rise. Additionally, there has been a meeting of COP26, the 26th Conference of the Parties to the United Nations Framework Convention on Climate Change. Canada has confirmed that achieving a net-zero economy by 2050 is required to avoid the worst impacts of climate change. This change will impact industries including the gas / oil industry. 
