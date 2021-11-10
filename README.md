@@ -2,7 +2,7 @@
 Please refer to the [report](https://docs.google.com/document/d/14F4xUKnnTIMCbx-4Z3-IhaLq061oqAbEGB7vniyEzns/edit?usp=sharing) and [proposal](https://docs.google.com/document/d/1AmPZUxoGwom2K4MIR5oqDgxZtwGsz5RPd5iDsHEtjCk/edit) for a thorough explanation of this project. Below you will find the analysis steps and links to the relevant folders and files.
 
 ## Motivation
-In 2021, gas prices are on the rise. Additionally, there has been a meeting of COP26, the 26<sub>th</sub> Conference of the Parties to the United Nations Framework Convention on Climate Change. Canada has confirmed that achieving a net-zero economy by 2050 is required to avoid the worst impacts of climate change. This change will impact industries including the gas / oil industry. 
+In 2021, gas prices are on the rise. Additionally, there has been a meeting of COP26, the 26<sup>th</sup> Conference of the Parties to the United Nations Framework Convention on Climate Change. Canada has confirmed that achieving a net-zero economy by 2050 is required to avoid the worst impacts of climate change. This change will impact industries including the gas / oil industry. 
 
 ## Project Objective
 ### Hypothesis: 
