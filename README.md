@@ -80,7 +80,7 @@ Data Used for the visualization: [Clean Project CO2 Data](https://github.com/She
 There is a general upward trend of emission and gas prices. The CO2 emissions increased more rapidly than the gas prices. This trend makes sense, as yearly gas prices would not exponentially increase, but increases in the demand of fossil fuels, would spike a large increase in CO2 emissions.
  
 ### 1998 
-Gas prices dipped (prices historically low). Emissions are still trending upward (Generally, more people purchased fuel causing the increase in emissions.)[(1)](https://www.latimes.com/archives/la-xpm-1998-dec-01-mn-49558-story.html)
+Gas prices dipped (prices historically low). There was an adjustment for inflation. Emissions are still trending upward (Generally, more people purchased fuel causing the increase in emissions.)[(1)](https://www.latimes.com/archives/la-xpm-1998-dec-01-mn-49558-story.html)
 
 ### 2000-2003 
 There is a small downward trend of emission and gas prices. During this period, WTI prices were stable, generally trading in the area of $30 per barrel. Contributing factors included weak economic growth and oil demand following the events of September 11, 2001.[(2)](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/archive/canadian-energy-pricing-trends-2011/canadian-energy-pricing-trends-2000-2010-energy-facts.pdf)
