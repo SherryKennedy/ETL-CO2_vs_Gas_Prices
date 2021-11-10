@@ -108,7 +108,7 @@ Dip in oil prices overall, emissions went down.  This is the year of the pandemi
 
 
 ### Conclusion
-With the above timeline analysis, one can not predict the future prices of gas and emission values. Generally, as stated above, gas prices were affected by the economy, overall supply, consumer demand, and world news. Currently, it looks like emissions values are similar to the gas prices (use / generation of oil). During 1998 and 2014-2015, there was not a similar trend to gas price and emission value. Gas prices plunged, but emissions went up.  
+With the above timeline analysis, one can not predict the future prices of gas and emission values.[(8)](https://www.canadianenergycentre.ca/oil-and-gas-to-lead-us-energy-consumption-to-2050-says-new-forecast/)[(9)](https://www.cnbc.com/2021/04/15/oil-could-plummet-to-10-by-2050-if-paris-climate-goals-are-achieved.html) Generally, as stated above, gas prices were affected by the economy, overall supply, consumer demand, and world news. Currently, it looks like emissions values are similar to the gas prices (use / generation of oil). During 1998 and 2014-2015, there was not a similar trend to gas price and emission value. Gas prices plunged, but emissions went up.  
 
 Tellingly, during 2015-2016 one can see a downward trend on gas prices as the economy was becoming more fuel-efficient (note: dollar was strong and economy was weak). Although, after 2015-2016, the demand for oil increased again. 
 
