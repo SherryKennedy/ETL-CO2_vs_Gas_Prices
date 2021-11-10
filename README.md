@@ -30,7 +30,7 @@ Code: CO2_Data (link)
 Output: Data/clean_emissions_data.csv (link)
 
 
-###TRANSFORM
+### TRANSFORM
 Gas Prices CSV:
 We filtered through the DataFrame for the data needed
 We cleaned the DataFrame
@@ -41,14 +41,14 @@ We cleaned the DataFrame
 
 Code: CO2_Data
 
-###LOAD
+### LOAD
 We loaded the clean DataFrames as CSV (link) locally
 We loaded the clean CSV files into MongoDB
 We then ran a number of queries (link) in order to obtain the visualization (link) needed
 
-###Findings (Link to the report)
+### Findings (Link to the report)
 
-###Conclusion
+### Conclusion
 
 
 
