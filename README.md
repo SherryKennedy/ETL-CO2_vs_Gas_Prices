@@ -30,7 +30,7 @@ Code: [CO2_Data Jupyter Notebook](https://github.com/SherryKennedy/ETL-Project/b
 
 ## TRANSFORM
 ### [Gas Prices CSV:](https://github.com/SherryKennedy/ETL-Project/blob/main/Resources/gas_prices.csv)
-* We filtered through the DataFrame to select particular columns from the CSV
+* We filtered through the DataFrame to select particular columns from the CSV.
 * We cleaned the DataFrame by checking for null values, splitting columns to refine data, extract particular values, dropping unnecessary and ambiguous data, renaming and rearranging the order of columns.
 * We finally grouped the data by Year in order to merge data later on.
 
@@ -40,7 +40,7 @@ Output: [Data/clean_gas_prices.csv](https://github.com/SherryKennedy/ETL-Project
 
 
 ### [CO<sub>2</sub> Emissions CSV:](https://github.com/SherryKennedy/ETL-Project/blob/main/Resources/gas_emissions.csv)
-* We filtered for 'Canada' data between 1990 and 2020 specifically
+* We filtered for 'Canada' data between 1990 and 2020 specifically.
 * We cleaned the DataFrame by checking for null values, changing data types, converting values to appropriate units, dropped unnecessary columns and renamed columns.
 * We finally grouped the data by Year in order to merge to the previous data set later on.
 
@@ -53,9 +53,9 @@ Output: [Data/clean_emissions_data.csv](https://github.com/SherryKennedy/ETL-Pro
 * After transforming the data, we saved the [cleaned CSV files](https://github.com/SherryKennedy/ETL-Project/tree/main/Data) to prepare for the loading onto our Data Base.
 
 ### [Loading Data into MongoDB](https://github.com/SherryKennedy/ETL-Project/blob/main/Data_to_Mongo.ipynb)
-* We connected to the localhost
-* We created a collection for each set of data
-* We then loaded the CSV files onto MongoDB in json format
+* We connected to the localhost.
+* We created a collection for each set of data.
+* We then loaded the CSV files onto MongoDB in json format.
 
 ### [Queries](https://github.com/SherryKennedy/ETL-Project/blob/main/Data_to_Mongo.ipynb)
 * We extracted the data from MongoDB as a DataFrame.
@@ -111,4 +111,7 @@ Dip in oil prices overall, emissions went down.  This is the year of the pandemi
 With the above timeline analysis, one can not predict the future prices of gas and emission values.[(8)](https://www.canadianenergycentre.ca/oil-and-gas-to-lead-us-energy-consumption-to-2050-says-new-forecast/)[(9)](https://www.cnbc.com/2021/04/15/oil-could-plummet-to-10-by-2050-if-paris-climate-goals-are-achieved.html) Generally, as stated above, gas prices were affected by the economy, overall supply, consumer demand, and world news. Currently, it looks like emissions values are similar to the gas prices (use / generation of oil). During 1998 and 2014-2015, there was not a similar trend to gas price and emission value. Gas prices plunged, but emissions went up.  
 
 Tellingly, during 2015-2016 one can see a downward trend on gas prices as the economy was becoming more fuel-efficient (note: dollar was strong and economy was weak). Although, after 2015-2016, the demand for oil increased again. 
+
+## [Apendix](https://github.com/SherryKennedy/ETL-Project/tree/main/Analysis)
+* We calculated the differences in Gas Prices and CO<sub>2</sub> Emissions for each year between 1990-2020.
 
