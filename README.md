@@ -75,7 +75,7 @@ Data Used for the visualization: [Clean Project CO2 Data](https://github.com/She
 * [CO2 Emissions for Canada from 1990 - 2020](https://github.com/SherryKennedy/ETL-Project/blob/main/Images/CO2_Emissions_1990_2020.png)
 * [Logarithmic Chart of Quebec Gas Prices from 1990 - 2020](https://github.com/SherryKennedy/ETL-Project/blob/main/Images/Gas_Prices_Quebec_1990_2020_Log_Chart.png)
 
-### [Analysis](https://github.com/SherryKennedy/ETL-Project/blob/main/Analysis/ETL_Project_Report.pdf):
+### [Analysis](https://github.com/SherryKennedy/ETL-Project/tree/main/Analysis):
 ### 1990-2008 
 There is a general upward trend of emission and gas prices. The CO<sub>2</sub> emissions increased more rapidly than the gas prices. This trend makes sense, as yearly gas prices would not exponentially increase, but increases in the demand of fossil fuels, would spike a large increase in CO<sub>2</sub> emissions.
  
