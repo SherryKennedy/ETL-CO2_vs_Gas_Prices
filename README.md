@@ -1,19 +1,19 @@
-# Are the trends of CO2 Emissions similar to that of Gas Prices from 1990 to 2020? 
+# Are the trends of CO<sub>2</sub> Emissions similar to that of Gas Prices from 1990 to 2020? 
 Please refer to the [report](https://docs.google.com/document/d/14F4xUKnnTIMCbx-4Z3-IhaLq061oqAbEGB7vniyEzns/edit?usp=sharing) and [proposal](https://docs.google.com/document/d/1AmPZUxoGwom2K4MIR5oqDgxZtwGsz5RPd5iDsHEtjCk/edit) for a thorough explanation of this project. Below you will find the analysis steps and links to the relevant folders and files.
 
 ## Motivation
-In 2021, gas prices are on the rise. Additionally, there has been a meeting of COP26, the 26th Conference of the Parties to the United Nations Framework Convention on Climate Change. Canada has confirmed that achieving a net-zero economy by 2050 is required to avoid the worst impacts of climate change. This change will impact industries including the gas / oil industry. 
+In 2021, gas prices are on the rise. Additionally, there has been a meeting of COP26, the 26<sup>th</sup> Conference of the Parties to the United Nations Framework Convention on Climate Change. Canada has confirmed that achieving a net-zero economy by 2050 is required to avoid the worst impacts of climate change. This change will impact industries including the gas / oil industry. 
 
 ## Project Objective
 ### Hypothesis: 
-Are the trends of Carbon Dioxide (CO2)  Emissions similar to that of Gas Prices from 1990 to 2020 for Quebec? (British Columbia, Alberta, Ontario not analysed at this time)
+Are the trends of Carbon Dioxide (CO<sub>2</sub>)  Emissions similar to that of Gas Prices from 1990 to 2020 for Quebec? (British Columbia, Alberta, Ontario not analysed at this time)
 
 ### Questions to answer:
 * What are the average yearly gas prices for each province stated between 1990 and 2020?
-* What are the CO2 emissions for these years?
-* Do CO2 emissions have a similar trend compared to gas prices?
+* What are the CO<sub>2</sub> emissions for these years?
+* Do CO<sub>2</sub> emissions have a similar trend compared to gas prices?
 
-To answer these questions, we downloaded CSV files of gas prices, and of CO2 emissions. Ultimately, we had to map the yearly gas prices with the yearly CO2 emissions.
+To answer these questions, we downloaded CSV files of gas prices, and of CO<sub>2</sub> emissions. Ultimately, we had to map the yearly gas prices with the yearly CO<sub>2</sub> emissions.
 
 ## ETL Analysis Steps
 
@@ -23,8 +23,8 @@ We filtered through the provided data on the Statistics Canada website for speci
 
 Code: [CO2_Data Jupyter Notebook](https://github.com/SherryKennedy/ETL-Project/blob/main/CO2_data.ipynb)
 
-### [CO2 Emissions CSV:](https://github.com/SherryKennedy/ETL-Project/blob/main/Resources/gas_emissions.csv)
-Global data included all countries and many years of CO2 emissions from the burning of fossil fuels. 
+### [CO<sub>2</sub> Emissions CSV:](https://github.com/SherryKennedy/ETL-Project/blob/main/Resources/gas_emissions.csv)
+Global data included all countries and many years of CO<sub>2</sub> emissions from the burning of fossil fuels. 
 
 Code: [CO2_Data Jupyter Notebook](https://github.com/SherryKennedy/ETL-Project/blob/main/CO2_data.ipynb)
 
@@ -39,7 +39,7 @@ Code: [CO2_Data Jupyter Notebook](https://github.com/SherryKennedy/ETL-Project/b
 Output: [Data/clean_gas_prices.csv](https://github.com/SherryKennedy/ETL-Project/blob/main/Data/clean_gas_prices.csv)
 
 
-### [CO2 Emissions CSV:](https://github.com/SherryKennedy/ETL-Project/blob/main/Resources/gas_emissions.csv)
+### [CO<sub>2</sub> Emissions CSV:](https://github.com/SherryKennedy/ETL-Project/blob/main/Resources/gas_emissions.csv)
 * We filtered for 'Canada' data between 1990 and 2020 specifically
 * We cleaned the DataFrame by checking for null values, changing data types, converting values to appropriate units, dropped unnecessary columns and renamed columns.
 * We finally grouped the data by Year in order to merge to the previous data set later on.
@@ -60,9 +60,11 @@ Output: [Data/clean_emissions_data.csv](https://github.com/SherryKennedy/ETL-Pro
 ### [Queries](https://github.com/SherryKennedy/ETL-Project/blob/main/Data_to_Mongo.ipynb)
 * We extracted the data from MongoDB as a DataFrame.
 * For the gas prices DataFrame, we created seperate DataFrames for each Province (British Columbia, Alberta, Ontario, Quebec).
-* We then merged each Province DataFrame on the 'Year' column with that of the CO2 emissions DataFrame.
+* We then merged each Province DataFrame on the 'Year' column with that of the CO<sub>2</sub> emissions DataFrame.
 * We cleaned the merged DataFrames by removing duplicated and unnecessary  columns.
 * Once cleaned, we appended all the merged DataFrames into one DataFrame to use for [visualization](https://github.com/SherryKennedy/ETL-Project/tree/main/Images).
+
+Data Used for the visualization: [Clean Project CO2 Data](https://github.com/SherryKennedy/ETL-Project/blob/main/Data/clean_CO2_project_data.csv)
 
 ## [Findings](https://docs.google.com/document/d/14F4xUKnnTIMCbx-4Z3-IhaLq061oqAbEGB7vniyEzns/edit?usp=sharing)
 ### Visualization Done:
@@ -75,10 +77,10 @@ Output: [Data/clean_emissions_data.csv](https://github.com/SherryKennedy/ETL-Pro
 
 ### [Analysis](https://docs.google.com/document/d/14F4xUKnnTIMCbx-4Z3-IhaLq061oqAbEGB7vniyEzns/edit?usp=sharing):
 ### 1990-2008 
-There is a general upward trend of emission and gas prices. The CO2 emissions increased more rapidly than the gas prices. This trend makes sense, as yearly gas prices would not exponentially increase, but increases in the demand of fossil fuels, would spike a large increase in CO2 emissions.
+There is a general upward trend of emission and gas prices. The CO<sub>2</sub> emissions increased more rapidly than the gas prices. This trend makes sense, as yearly gas prices would not exponentially increase, but increases in the demand of fossil fuels, would spike a large increase in CO<sub>2</sub> emissions.
  
 ### 1998 
-Gas prices dipped (prices historically low). Emissions are still trending upward (Generally, more people purchased fuel causing the increase in emissions.)[(1)](https://www.latimes.com/archives/la-xpm-1998-dec-01-mn-49558-story.html)
+Gas prices dipped (prices historically low). There was an adjustment for inflation. Emissions are still trending upward (Generally, more people purchased fuel causing the increase in emissions.)[(1)](https://www.latimes.com/archives/la-xpm-1998-dec-01-mn-49558-story.html)
 
 ### 2000-2003 
 There is a small downward trend of emission and gas prices. During this period, WTI prices were stable, generally trading in the area of $30 per barrel. Contributing factors included weak economic growth and oil demand following the events of September 11, 2001.[(2)](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/archive/canadian-energy-pricing-trends-2011/canadian-energy-pricing-trends-2000-2010-energy-facts.pdf)
@@ -87,26 +89,26 @@ There is a small downward trend of emission and gas prices. During this period, 
 Upward trend in both gas prices and emissions. This period was characterized by extreme price volatility. Major contributing factors included ongoing significant growth in financial investment in oil; a falling U.S. dollar; growing demand from emerging economies; geopolitical instability; rising finding and development costs; and, slow non-OPEC production growth.[(2)](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/archive/canadian-energy-pricing-trends-2011/canadian-energy-pricing-trends-2000-2010-energy-facts.pdf)
 
 ### 2008-2009 
-This sudden decrease of gas prices after the increase from 2007-2008 may have been affected by the global recession that was characterized by broad-based wealth destruction with the collapse of the U.S. housing market, the failure of a number of major financial institutions and the decline in stock markets. Likewise, more people were being economical with fuel consumption, which justifies the decrease in CO2 emissions.[(2)](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/archive/canadian-energy-pricing-trends-2011/canadian-energy-pricing-trends-2000-2010-energy-facts.pdf)
+This sudden decrease of gas prices after the increase from 2007-2008 may have been affected by the global recession that was characterized by broad-based wealth destruction with the collapse of the U.S. housing market, the failure of a number of major financial institutions and the decline in stock markets. Likewise, more people were being economical with fuel consumption, which justifies the decrease in CO<sub>2</sub> emissions.[(2)](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/archive/canadian-energy-pricing-trends-2011/canadian-energy-pricing-trends-2000-2010-energy-facts.pdf)
 
 ### 2009-2010 
-Here, there is an increase in gas prices, as the global economy slowly started to improve, and CO2 emissions similarly started to increase as well.[(2)](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/archive/canadian-energy-pricing-trends-2011/canadian-energy-pricing-trends-2000-2010-energy-facts.pdf) 
+Here, there is an increase in gas prices, as the global economy slowly started to improve, and CO<sub>2</sub> emissions similarly started to increase as well.[(2)](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/archive/canadian-energy-pricing-trends-2011/canadian-energy-pricing-trends-2000-2010-energy-facts.pdf) 
 
 ### 2014-2015  
-Booming U.S. shale oil production played a significant role in the oil price plunge from mid-2014 to early 2016. The initial drop in oil prices from mid-2014 to early 2015 was primarily driven by supply factors, including booming U.S. oil production, receding geopolitical concerns, and shifting OPEC policies. However, deteriorating demand prospects played a role as well, particularly from mid-2015 to early 2016. This partly explains why the oil price plunge failed to provide a subsequent boost to global activity. Generally, the emissions looked to increase slightly, as all of the fuel created would have been purchased.[(3)](https://blogs.worldbank.org/developmenttalk/what-triggered-oil-price-plunge-2014-2016-and-why-it-failed-deliver-economic-impetus-eight-charts)
+Booming U.S. shale oil production played a significant role in the oil price plunge from mid-2014 to early 2016. The initial drop in oil prices from mid-2014 to early 2015 was primarily driven by supply factors, including booming U.S. oil production, receding geopolitical concerns, and shifting OPEC policies. This partly explains why the oil price plunge failed to provide a subsequent boost to global activity. Generally, the emissions looked to increase slightly, as all of the fuel created would have been purchased.[(3)](https://blogs.worldbank.org/developmenttalk/what-triggered-oil-price-plunge-2014-2016-and-why-it-failed-deliver-economic-impetus-eight-charts)
 
 ### 2015-2016 
-There was a drop in gas prices and a drop in emissions. The dollar was strong. Inventories were huge. The economy was weak. Oil production was growing. Global demand for oil was decreasing. The economies of Europe and developing countries were weakening. Vehicles are becoming more fuel-efficient.[(4)](https://www.investopedia.com/articles/investing/102215/4-reasons-why-price-crude-oil-dropped.asp) The world economy is growing, suggesting a turning point in clean energy development. A hoped for decoupling of economic growth and increased carbon emissions.[(5)](https://insideclimatenews.org/news/07122015/global-carbon-emissions-rising-decades-decline-2015-study-climate-change-paris/)
+There was a drop in gas prices and a drop in emissions. However, deteriorating demand prospects played a role , particularly from mid-2015 to early 2016. The dollar was strong. Inventories were huge. The economy was weak. Oil production was growing. Global demand for oil was decreasing. The economies of Europe and developing countries were weakening. Vehicles are becoming more fuel-efficient.[(4)](https://www.investopedia.com/articles/investing/102215/4-reasons-why-price-crude-oil-dropped.asp) The world economy is growing, suggesting a turning point in clean energy development. A hoped for decoupling of economic growth and increased carbon emissions.[(5)](https://insideclimatenews.org/news/07122015/global-carbon-emissions-rising-decades-decline-2015-study-climate-change-paris/)
 
 ### 2016-2018 
-Increase in gas prices occured as the gas economy leveled as a result of the previous years. Due to the high demand of gasoline, CO2 emissions were also on a rise.[(6)](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/market-snapshots/2018/market-snapshot-canadian-gasoline-prices-rise-highest-level-in-over-3-years.html) 
+Increase in gas prices occured as the gas economy leveled as a result of the previous years. Due to the high demand of gasoline, CO<sub>2</sub> emissions were also on a rise.[(6)](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/market-snapshots/2018/market-snapshot-canadian-gasoline-prices-rise-highest-level-in-over-3-years.html) 
 
 ### 2020 
 Dip in oil prices overall, emissions went down.  This is the year of the pandemic, prices of gas went down -  a lot of people were ‘locked down’ world-wide. Thus, it makes sense that fewer emissions would follow.[(7)](https://www.ctvnews.ca/autos/gasoline-sales-plunge-to-lowest-level-in-20-years-during-first-year-of-pandemic-1.5611989)
 
 
-### Conclusion
-*TO ADD*
+## Conclusion
+With the above timeline analysis, one can not predict the future prices of gas and emission values.[(8)](https://www.canadianenergycentre.ca/oil-and-gas-to-lead-us-energy-consumption-to-2050-says-new-forecast/)[(9)](https://www.cnbc.com/2021/04/15/oil-could-plummet-to-10-by-2050-if-paris-climate-goals-are-achieved.html) Generally, as stated above, gas prices were affected by the economy, overall supply, consumer demand, and world news. Currently, it looks like emissions values are similar to the gas prices (use / generation of oil). During 1998 and 2014-2015, there was not a similar trend to gas price and emission value. Gas prices plunged, but emissions went up.  
 
-
+Tellingly, during 2015-2016 one can see a downward trend on gas prices as the economy was becoming more fuel-efficient (note: dollar was strong and economy was weak). Although, after 2015-2016, the demand for oil increased again. 
 
