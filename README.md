@@ -112,6 +112,6 @@ With the above timeline analysis, one can not predict the future prices of gas a
 
 Tellingly, during 2015-2016 one can see a downward trend on gas prices as the economy was becoming more fuel-efficient (note: dollar was strong and economy was weak). Although, after 2015-2016, the demand for oil increased again. 
 
-## [Apendix](https://github.com/SherryKennedy/ETL-Project/tree/main/Analysis)
+## [Appendix](https://github.com/SherryKennedy/ETL-Project/tree/main/Analysis)
 * We calculated the differences in Gas Prices and CO<sub>2</sub> Emissions for each year between 1990-2020.
 
