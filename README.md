@@ -1,4 +1,4 @@
-# Are the trends of CO<sub>2</sub> Emissions similar to that of Gas Prices from 1990 to 2020? 
+# Are the Trends of CO<sub>2</sub> Emissions Similar to that of Gas Prices from 1990 to 2020? 
 Please refer to the [report](https://github.com/SherryKennedy/ETL-Project/blob/main/Analysis/ETL_Project_Report.pdf) and [proposal](https://github.com/SherryKennedy/ETL-Project/blob/main/Analysis/ETL_Project_Proposal.pdf) for a thorough explanation of this project. Below you will find the analysis steps and links to the relevant folders and files.
 
 ## Motivation
