@@ -75,9 +75,9 @@ Data Used for the visualization: [Clean Project CO2 Data](https://github.com/She
 * [CO2 Emissions for Canada from 1990 - 2020](https://github.com/SherryKennedy/ETL-Project/blob/main/Images/CO2_Emissions_1990_2020.png)
 * [Logarithmic Chart of Quebec Gas Prices from 1990 - 2020](https://github.com/SherryKennedy/ETL-Project/blob/main/Images/Gas_Prices_Quebec_1990_2020_Log_Chart.png)
 
-[CO2 Emissions for Canada from 1990 - 2020](https://github.com/SherryKennedy/ETL-Project/blob/main/Images/CO2_Emissions_1990_2020 copy.jpg)
+![CO2 Emissions for Canada from 1990 - 2020](https://github.com/SherryKennedy/ETL-Project/blob/main/Images/CO2_Emissions_1990_2020_image.jpg)
 
-[Logarithmic Chart of Quebec Gas Prices from 1990 - 2020](https://github.com/SherryKennedy/ETL-Project/blob/main/Images/Gas_Prices_Quebec_1990_2020_Log_Chart copy.jpg)
+![Logarithmic Chart of Quebec Gas Prices from 1990 - 2020](https://github.com/SherryKennedy/ETL-Project/blob/main/Images/Gas_Prices_Quebec_1990_2020_Log_ChartImage.jpg)
 
 ### [Analysis](https://github.com/SherryKennedy/ETL-Project/tree/main/Analysis):
 
